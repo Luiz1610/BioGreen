@@ -1,0 +1,31 @@
+img {
+    height: 80%vh; 
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.contato h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.contato h3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.contato a {
+    color: white;
+    text-decoration: none;
+    margin: 0 7px;
+}
+
